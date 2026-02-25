@@ -2,6 +2,8 @@
 
 A data analytics project containing multiple Excel dashboards and reports including E-commerce analysis, HR Dashboard, and Student Information System.
 This repository showcases data cleaning, analysis, and dashboard creation using Excel.
+<img width="1667" height="662" alt="image" src="https://github.com/user-attachments/assets/568d4c3a-036b-4067-938a-deee049b75d2" />
+
 
 📁 Repository Contents
 
